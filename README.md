@@ -13,4 +13,4 @@
 ## 参与交流
 
 欢迎加入**Python简明自学手册团队**微信群，共同学习进步提高。
-[![Wechat_IMG1.png](https://s26.postimg.org/pobh4yn89/Wechat_IMG1.png)](https://postimg.org/image/z8v3ruck5/)
+![Wechat_IMG1.png](https://s26.postimg.org/pobh4yn89/Wechat_IMG1.png)
