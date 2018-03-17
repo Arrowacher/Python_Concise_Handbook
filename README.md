@@ -6,9 +6,7 @@
 
 ## 目录
 
-* 转行之初
-
-  * [编程是什么？Python又是什么？](https://github.com/MrWang1214/Python_Concise_Handbook/blob/master/%E8%BD%AC%E8%A1%8C%E4%B9%8B%E5%88%9D/%E7%BC%96%E7%A8%8B%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9FPython%E5%8F%88%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)
+* [前言](https://github.com/MrWang1214/Python_Concise_Handbook/blob/master/%E8%BD%AC%E8%A1%8C%E4%B9%8B%E5%88%9D/%E7%BC%96%E7%A8%8B%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9FPython%E5%8F%88%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)
 
 ## 参考资料
 
